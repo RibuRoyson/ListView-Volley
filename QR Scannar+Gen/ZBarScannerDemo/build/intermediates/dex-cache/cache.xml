@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\ZBarScannerDemo\zBarScannerLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e1a75bacb5f99b4374fa420d62bc0f2d28381934">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\classes-bfcd1c8a9e79fc6df7d2fadc0d3270be266e472c.jar" />
+    </item>
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-689f388f41ca15cf8f2b0d144682a4ebd479c0e5.jar" />
+    </item>
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\classes-5b653bea233ded2de598006212081a426e30b7e7.jar" />
+    </item>
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\ZBarScannerDemo\zBarScannerLibrary\unspecified\jars\libs\zbar.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\zbar-6763a2c814855a0c73d7e33a542d56779129519d.jar" />
+    </item>
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\ZBarScannerDemo\zBarScannerLibrary\unspecified\jars\libs\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\core-3.2.1-601216b1596b0f178b713131d358b68641b6ba8a.jar" />
+    </item>
+    <item
+        jar="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\classes-f5d9ccc1cf2098f75c028ecac09f99e7bae3c4a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ribu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\New folder\ZBarScannerDemo\zBarScannerDemo\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-26ce98ba0e95f9763a655cb86296188a8c0afbc4.jar" />
+    </item>
+
+</items>
